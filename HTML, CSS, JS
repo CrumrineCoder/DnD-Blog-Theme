@@ -4,7 +4,7 @@
   <style>
     header {
       text-align: center;
-      background: url("C://Users/NicLaptop/Desktop/Blog/venomfang.jpg");
+      background: url("https://www.dropbox.com/s/56qx2p19qy7o0qq/venomfang.jpg?raw=1");
       background-size: cover;
       color: white;
     }
@@ -46,7 +46,7 @@
 </head>
 <body>
   <header>
-    <img src="C:\Users\NicLaptop\Desktop\Blog\d20.jpg" style="width: 200px; height: 150px;" >
+    <img src="https://www.dropbox.com/s/sri9xtefc2rn0a2/d20.JPG?raw=1" style="width: 200px; height: 150px;" >
     <h1>The Adventures of the Squat Squad</h1>
     <ul>
       <li><a href="#">Party Makeup</a></li>
